@@ -24,5 +24,5 @@ public class Mainn {
         Dog d = new Dog();
         d.speak();
 
-    }
+    }  
 }
